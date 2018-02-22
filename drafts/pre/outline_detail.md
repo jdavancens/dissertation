@@ -1,12 +1,19 @@
 # Outline (Detail)
-## 1. Introduction - Overview, Poetics and Histories
+## 1. Introduction
 *(T) The composition* Heave, Sway, Surge *attempts to evoke the subjectivity of self-motion through instrumental gesture by ...*
+### 1.1 Overview
+Text
+### 1.2 Poetics
+Text
+### 1.3 Histories
+Text
 
 ## 2. Instability in Instrumental Sound Production
 *(T) ... attempting to exploit unstable and transitional states in various ways of playing acoustic instruments,*
-### 2.1 Organology/Acoustics
-### 2.2 Physiology
-### 2.3 Chaotic Dynamics
+### 2.1 Organology
+### 2.2 Acoustics
+### 2.3 Physiology
+### 2.4 States of chaotic vibration and equilibrium
 
 ## 3. Positions and Pressures and their Structuring in Time
 *(T) ... using descriptions of motion as its musical material, which are structured according to cyclic patterns, groupings and rhythmic principles,*
@@ -29,6 +36,10 @@
 ### 5.4 Tools
 ### 5.5 Stylesheets
 ### 5.6 Materials
-### 5.7 Segment Definitionss
+### 5.7 Segment Definitions
 
 ## 6. Conclusion
+*(T) The software implementation and execution of composition are imperfect, are there are some definite aspects that could be improved in future work.*
+### 6.1 Summary
+### 6.2 Evaluation
+### 6.3 Future Work

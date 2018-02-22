@@ -1,0 +1,31 @@
+\contentsline {chapter}{Abstract}{v}
+\contentsline {chapter}{List of Figures}{vi}
+\contentsline {chapter}{List of Tables}{vii}
+\contentsline {chapter}{Dedication}{viii}
+\contentsline {chapter}{Acknowledgments}{ix}
+\contentsline {part}{I\hspace {1em}Text}{1}
+\contentsline {chapter}{\numberline {1}Introduction - Overview, Poetics and Histories}{2}
+\contentsline {section}{\numberline {1.1}M}{2}
+\contentsline {chapter}{\numberline {2}Chaotic Instrumental Sound Production}{3}
+\contentsline {section}{\numberline {2.1}Introduction}{3}
+\contentsline {section}{\numberline {2.2}Organology: Instrumental Physics and Sound Spectra}{3}
+\contentsline {subsection}{\numberline {2.2.1}Aerophones}{3}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Woodwinds}{3}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Brass}{3}
+\contentsline {subsection}{\numberline {2.2.2}Chordophones}{3}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Bowed Strings}{3}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Plucked Strings}{3}
+\contentsline {section}{\numberline {2.3}Chaos/Predictability}{3}
+\contentsline {chapter}{\numberline {3}Positions and Pressures and their Structuring in Time}{4}
+\contentsline {section}{\numberline {3.1}Musical Material}{4}
+\contentsline {section}{\numberline {3.2}Forces/Indicators as Material}{4}
+\contentsline {chapter}{\numberline {4}Towards a Generalized Prescriptive Notation}{5}
+\contentsline {section}{\numberline {4.1}Introduction}{5}
+\contentsline {section}{\numberline {4.2}Staves}{5}
+\contentsline {subsection}{\numberline {4.2.1}Plots}{5}
+\contentsline {subsection}{\numberline {4.2.2}Tablature}{5}
+\contentsline {section}{\numberline {4.3}Symbols}{5}
+\contentsline {chapter}{\numberline {5}Surge - Design and Implementation}{6}
+\contentsline {part}{II\hspace {1em}Appendices}{7}
+\contentsline {chapter}{\numberline {A}\textit {Heave, Sway, Surge}, a Composition for 13 Instruments}{8}
+\contentsline {chapter}{\numberline {B}Surge – Documentation}{9}

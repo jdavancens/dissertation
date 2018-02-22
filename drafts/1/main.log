@@ -1,0 +1,180 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.20)  22 FEB 2018 07:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
+(./ucthesis.cls
+Document Class: ucthesis 2006/05/04 v3.2-ucsc-2 University of California Thesis
+ Class
+(./uct11.clo)
+\descriptionmargin=\dimen102
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+) (./main.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 43.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+
+ []
+
+[1
+
+{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
+ [2]
+(./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 7.
+ [3
+
+]
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no “ in font cmbx10!
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [4]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex [5
+
+]) (./main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [6
+
+
+] (./main.lot)
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+
+[7
+
+] [8] [9] [1
+
+]
+\openout2 = `chapter1.aux'.
+
+ (./chapter1.tex
+Chapter 1.
+) [2
+
+
+]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+Chapter 2.
+) [3
+
+
+
+]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+Chapter 3.
+) [4
+
+
+
+]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+Chapter 4.
+) [5
+
+
+
+]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+Chapter 5.
+) [6
+
+
+
+]
+No file main.bbl.
+[7
+
+
+]
+Appendix A.
+[8
+
+]
+Appendix B.
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no “ in font cmbx12!
+[9
+
+] (./main.aux (./abstract.aux) (./chapter1.aux) (./chapter2.aux)
+(./chapter3.aux) (./chapter4.aux) (./chapter5.aux)) ) 
+Here is how much of TeX's memory you used:
+ 360 strings out of 494437
+ 4017 string characters out of 6166645
+ 55416 words of memory out of 5000000
+ 3726 multiletter control sequences out of 15000+600000
+ 10489 words of font info for 36 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 23i,5n,20p,498b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017ba
+sic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/20
+17basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texliv
+e/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/
+texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
+b>
+Output written on main.pdf (18 pages, 105753 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
