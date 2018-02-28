@@ -37,6 +37,7 @@ Text
 ### 5.5 Stylesheets
 ### 5.6 Materials
 ### 5.7 Segment Definitions
+### 5.8 Build Scripts and Utilities
 
 ## 6. Conclusion
 *(T) The software implementation and execution of composition are imperfect, are there are some definite aspects that could be improved in future work.*
